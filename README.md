@@ -1,10 +1,13 @@
 # COIT20252 – Business Process Management E-Portfolio
 
 **Student Name:** Syed Rubaiyat Karim  
+
 **Student ID:** 12302352
 
 **Unit:** COIT20252 Business Process Management  
+
 **Term:** Term 2, 2026  
+
 **University:** CQUniversity  
 
 ## About This E-Portfolio
