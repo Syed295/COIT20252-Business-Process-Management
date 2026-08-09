@@ -93,4 +93,10 @@ AI tools were used during the planning, research and initial idea-development st
 
 ## References
 
-To be completed.
+Behrhorst, J, Gale, B and Van, CM 2025, ‘The evolution of root cause analysis’, *PSNet*, Agency for Healthcare Research and Quality, 26 February, viewed 7 August 2026, <https://psnet.ahrq.gov/perspective/evolution-root-cause-analysis>.
+
+Ma, Y, Wu, T, Zhou, B, Liang, X, Du, J and Bao, J 2025, ‘Enhancing bottleneck analysis in ship manufacturing with knowledge graphs and large language models’, *Machines*, vol. 13, no. 3, article 224, viewed 7 August 2026, <https://doi.org/10.3390/machines13030224>.
+
+Rubensson, C 2025, ‘Visual process mining over time and space’, *Proceedings of the Best BPM Dissertation Award, Doctoral Consortium, and Demonstrations & Resources Forum co-located with the 23rd International Conference on Business Process Management*, Seville, Spain, 31 August–5 September, CEUR Workshop Proceedings, vol. 4032, viewed 7 August 2026, <https://ceur-ws.org/Vol-4032/paper-08.pdf>.
+
+Kraus, A 2026, *Understanding business process dynamics through system-level process mining*, PhD thesis, University of Mannheim, Mannheim, viewed 7 August 2026, <https://madoc.bib.uni-mannheim.de/71620/1/PhD_Thesis_Alexander_Kraus.pdf>.
