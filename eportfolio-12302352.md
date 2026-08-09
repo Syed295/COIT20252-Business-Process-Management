@@ -67,11 +67,25 @@ I chose this paper because process mining is discussed in Week 3, Slides 27 and 
 Rubensson, C 2025, ‘Visual process mining over time and space’, Proceedings of the Best BPM Dissertation Award, Doctoral Consortium, and Demonstrations & Resources Forum co-located with the 23rd International Conference on Business Process Management, Seville, Spain, 31 August–5 September, CEUR Workshop Proceedings, vol. 4032, viewed 7 August 2026, https://ceur-ws.org/Vol-4032/paper-08.pdf.
 
 
-## Artefact 4 — PhD Thesis
+## Artefact 4 PhD Thesis: “Understanding Business Process Dynamics through System-Level Process Mining”
 
-To be completed.
+## Source: 
+Kraus, A 2026, Understanding business process dynamics through system-level process mining, PhD thesis, University of Mannheim.
 
----
+![Screenshot of PhD thesis](artefact4.png)
+
+[Download Artefact 4 PDF](artefact4-process-dynamics-thesis.pdf)
+
+## Summary
+This PhD thesis explains how organisations can study changes in their business processes by using system-level process mining. Normal process mining often examines individual cases separately, but this may not show how the whole process changes over time. System-level process mining combines information from many cases and helps organisations find changes in performance, repeated delays and dynamic bottlenecks. It can also show how a process responds to operational changes or disruptions. This gives organisations a clearer and more accurate understanding of their overall process performance (Kraus 2026, pp. 1–3, 37–39).
+
+## Justification and Reflection
+I chose this thesis because continuous monitoring and process variation are discussed in Week 3, Slides 9 and 23. I already knew that organisations should examine many cases over time to identify changes in performance, repeated delays and dynamic bottlenecks. However, this thesis helped me understand the difference between studying individual cases and analysing the whole process as one changing system. I learned that some patterns may not be visible when cases are examined separately. This artefact is useful evidence of my BPM knowledge because it shows why organisations should monitor their processes continuously instead of depending on a single analysis.
+
+## Reference
+Kraus, A 2026, Understanding business process dynamics through system-level process mining, PhD thesis, University of Mannheim, Mannheim, viewed 7 August 2026, https://madoc.bib.uni-mannheim.de/71620/1/PhD_Thesis_Alexander_Kraus.pdf.
+
+
 
 ## AI Disclosure
 
