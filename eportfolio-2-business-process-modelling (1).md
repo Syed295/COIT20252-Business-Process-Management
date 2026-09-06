@@ -52,7 +52,7 @@ I chose this article because static and dynamic models are discussed in Week 5, 
 
 [View Artefact 3](https://arxiv.org/pdf/2509.24592)
 ![Screenshot of Artefact 3](P2-artefact3.png)
-[Download the Artefact 1 PDF](P2-Artefact3.pdf)
+[Download the Artefact 3 PDF](P2-Artefact3.pdf)
 
 
 ### Summary
