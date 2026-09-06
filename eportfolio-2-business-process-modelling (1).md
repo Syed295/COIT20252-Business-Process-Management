@@ -15,6 +15,7 @@
 
 [View Artefact 1](https://ejournal.unesa.ac.id/index.php/JEISBI/article/view/70359)
 ![Screenshot of Artefact 1](P2-artfact1.png)
+[Download the Artefact 1 PDF](P2-Artefact1.pdf)
 
 ### Summary
 
