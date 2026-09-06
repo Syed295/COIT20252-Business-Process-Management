@@ -14,7 +14,9 @@
 **Source:** Aziz and Nuryana (2025), *Business Process Analysis and Modeling Using the Business Process Model Notation (BPMN) Method: Case Study of Simo Jaya Printing*.
 
 [View Artefact 1](https://ejournal.unesa.ac.id/index.php/JEISBI/article/view/70359)
+
 ![Screenshot of Artefact 1](P2-artfact1.png)
+
 [Download the Artefact 1 PDF](P2-Artefact1.pdf)
 
 ### Summary
@@ -32,7 +34,9 @@ I chose this article because BPMN is discussed in Week 4, Slide 23. This example
 **Source:** Sullivan, Arias-Nava and Patel (2025), *Model-Based Systems Engineering for Business Process Management: Leveraging ARCADIA for Production System Design*.
 
 [View Artefact 2](https://journals.sagepub.com/doi/full/10.1177/18479790251387385)
+
 ![Screenshot of Artefact 2](P2-artefact2.png)
+
 [Download the Artefact 2 PDF](P2-Artefact2.pdf)
 
 
@@ -50,8 +54,11 @@ I chose this article because static and dynamic models are discussed in Week 5, 
 
 **Source:** Licardo, Tanković and Etinger (2026), *BPMN Assistant: An LLM-Based Approach to Business Process Modeling*.
 
+
 [View Artefact 3](https://arxiv.org/pdf/2509.24592)
+
 ![Screenshot of Artefact 3](P2-artefact3.png)
+
 [Download the Artefact 3 PDF](P2-Artefact3.pdf)
 
 
@@ -69,7 +76,13 @@ I chose this paper because BPMN is discussed in Week 4, Slide 23, and modelling 
 
 **Source:** Teriete, Erlach, Bauernhansl and van der Aalst (2026), *Combining Value Stream Mapping and Process Mining in Production: A Systematic Literature Review*.
 
+
+
 [View Artefact 4](https://link.springer.com/article/10.1007/s42452-026-08446-y)
+
+![Screenshot of Artefact 4](P2-artefact4.png)
+
+[Download the Artefact 4 PDF](P2-Artefact4.pdf)
 
 ### Summary
 
