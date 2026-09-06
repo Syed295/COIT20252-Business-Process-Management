@@ -32,6 +32,9 @@ I chose this article because BPMN is discussed in Week 4, Slide 23. This example
 **Source:** Sullivan, Arias-Nava and Patel (2025), *Model-Based Systems Engineering for Business Process Management: Leveraging ARCADIA for Production System Design*.
 
 [View Artefact 2](https://journals.sagepub.com/doi/full/10.1177/18479790251387385)
+![Screenshot of Artefact 2](P2-artefact2.png)
+[Download the Artefact 2 PDF](P2-Artefact2.pdf)
+
 
 ### Summary
 
