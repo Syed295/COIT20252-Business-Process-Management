@@ -14,7 +14,7 @@
 **Source:** Aziz and Nuryana (2025), *Business Process Analysis and Modeling Using the Business Process Model Notation (BPMN) Method: Case Study of Simo Jaya Printing*.
 
 [View Artefact 1](https://ejournal.unesa.ac.id/index.php/JEISBI/article/view/70359)
-!(P2-artefact1.png)
+![Screenshot of Artefact 1](p2-artefact1.png)
 
 ### Summary
 
