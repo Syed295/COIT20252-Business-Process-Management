@@ -17,7 +17,9 @@ This repository contains my individual e-portfolio for COIT20252 Business Proces
 ## Portfolio Contents
 
 1. [E-Portfolio 1: Process Analysis](eportfolio-1-process-analysis.md)
+
 2.[E-Portfolio 2: Business Process Modelling](eportfolio-2-business-process-modelling.md)
+
 3. E-Portfolio 3: Robotic Process Automation and Process Cybersecurity
 
 ## Development Process
