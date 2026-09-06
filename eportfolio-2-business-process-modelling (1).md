@@ -51,6 +51,9 @@ I chose this article because static and dynamic models are discussed in Week 5, 
 **Source:** Licardo, Tanković and Etinger (2026), *BPMN Assistant: An LLM-Based Approach to Business Process Modeling*.
 
 [View Artefact 3](https://arxiv.org/pdf/2509.24592)
+![Screenshot of Artefact 3](P2-artefact3.png)
+[Download the Artefact 1 PDF](P2-Artefact3.pdf)
+
 
 ### Summary
 
