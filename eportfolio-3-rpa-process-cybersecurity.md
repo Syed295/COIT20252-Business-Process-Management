@@ -14,7 +14,7 @@
 
 [View Artefact 1](https://arxiv.org/pdf/2507.11364)
 
-![Screenshot of Artefact 1](P3-Artefact1.png)
+<img src="P3-Artefact1.png" alt="Screenshot of Artefact 1" width="350">
 
 [Download Artefact 1 PDF](P3-Artefact1.pdf)
 
