@@ -66,9 +66,9 @@ I chose this source because process cybersecurity is discussed in Week 8, Slides
 
 **Source:** Australian Signals Directorate 2025, *Annual cyber threat report 2024–25*, Australian Cyber Security Centre, Canberra.
 
-![Screenshot of Artefact 4](artefact4-cyber-threat-report.png)
+![Screenshot of Artefact 4](P3-Artefact4.png)
 
-[Download Artefact 4 PDF](artefact4-cyber-threat-report.pdf)
+[Download Artefact 4 PDF](P3-Artefact4.pdf)
 
 ### Summary
 
