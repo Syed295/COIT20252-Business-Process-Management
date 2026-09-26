@@ -48,9 +48,9 @@ I chose this article because Week 8, Slides 17–22 explain RPA, its benefits an
 
 **Source:** National Centre of Excellence 2025, *Robotic process automation (RPA) security challenges and future trends*.
 
-![Screenshot of Artefact 3](artefact3-rpa-security.png)
+![Screenshot of Artefact 3](P3-Artefact3.png)
 
-[Download Artefact 3 PDF](artefact3-rpa-security.pdf)
+[Download Artefact 3 PDF](P3-Artefact3.pdf)
 
 ### Summary
 
