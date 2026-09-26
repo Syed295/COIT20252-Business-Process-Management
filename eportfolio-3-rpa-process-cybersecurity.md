@@ -12,6 +12,8 @@
 
 **Source:** Kurowski, K, Lu, X and Reijers, HA 2025, ‘From chaos to automation: Enabling the use of unstructured data for robotic process automation’.
 
+[View Artefact 1](https://arxiv.org/pdf/2507.11364)
+
 ![Screenshot of Artefact 1](P3-Artefact1.png)
 
 [Download Artefact 1 PDF](P3-Artefact1.pdf)
