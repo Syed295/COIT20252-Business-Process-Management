@@ -30,9 +30,9 @@ I chose this paper because RPA and its uses are discussed in Week 8, Slides 17�
 
 **Source:** Ganapam, MM 2025, ‘Integrating generative AI and robotic process automation (RPA) in business processes: Opportunities, challenges, and future directions’, *International Research Journal of Innovations in Engineering and Technology*, vol. 9, no. 6, pp. 133–136.
 
-![Screenshot of Artefact 2](artefact2-ai-rpa.png)
+![Screenshot of Artefact 2](P3-Artefact2.png)
 
-[Download Artefact 2 PDF](artefact2-ai-rpa.pdf)
+[Download Artefact 2 PDF](P3-Artefact3.pdf)
 
 ### Summary
 
