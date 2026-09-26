@@ -32,7 +32,7 @@ I chose this paper because RPA and its uses are discussed in Week 8, Slides 17�
 
 **Source:** Ganapam, MM 2025, ‘Integrating generative AI and robotic process automation (RPA) in business processes: Opportunities, challenges, and future directions’, *International Research Journal of Innovations in Engineering and Technology*, vol. 9, no. 6, pp. 133–136.
 
-[View Artefact 2](https://irjiet.com/article_file/IRJIET9060161750237154.pdf?utm_source=chatgpt.com)
+[View Artefact 2](https://irjiet.com/article_file/IRJIET9060161750237154.pdf)
 
 ![Screenshot of Artefact 2](P3-Artefact2.png)
 
@@ -52,7 +52,7 @@ I chose this article because Week 8, Slides 17–22 explain RPA, its benefits an
 
 **Source:** National Centre of Excellence 2025, *Robotic process automation (RPA) security challenges and future trends*.
 
-[View Artefact 3](https://www.n-coe.in/sites/default/files/2025-07/1%20Robotic%20Process%20Automation.pdf?utm_source=chatgpt.com)
+[View Artefact 3](https://www.n-coe.in/sites/default/files/2025-07/1%20Robotic%20Process%20Automation.pdf)
 
 ![Screenshot of Artefact 3](P3-Artefact3.png)
 
@@ -71,6 +71,9 @@ I chose this source because process cybersecurity is discussed in Week 8, Slides
 ## Artefact 4 — Government Report: “Annual Cyber Threat Report 2024–25”
 
 **Source:** Australian Signals Directorate 2025, *Annual cyber threat report 2024–25*, Australian Cyber Security Centre, Canberra.
+
+[View Artefact 4](https://www.cyber.gov.au/sites/default/files/2025-10/Annual%20Cyber%20Threat%20Report%202024-25.pdf)
+
 
 ![Screenshot of Artefact 4](P3-Artefact4.png)
 
